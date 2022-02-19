@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Comforter&display=swap');
+.number {
+    font-family: 'Comforter', cursive;
+}
+
+.center-cl {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 20rem;
+    height: 20rem;
+    border-radius: 4rem;
+}
+
+.center-cl .number {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.btn-group {
+    position: fixed;
+    left: 20%;
+}
